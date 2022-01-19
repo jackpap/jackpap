@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jackpap
+- 👀 I’m interested in HPC, CAE, CFD, 3D, CV, ML, TRADING...
+- 💞️ I’m looking to collaborate with any fun dev team
